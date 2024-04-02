@@ -5,3 +5,11 @@
 GitHub无修改时，本地push
 
 这里本地有修改
+
+再次验证
+
+git add .
+
+git commit -m "validate"
+
+git push
