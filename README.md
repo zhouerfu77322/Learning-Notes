@@ -2,14 +2,5 @@
 
 这是一个自学笔记
 
-GitHub无修改时，本地push
+day1：docker+k8s：学历虚拟机简史
 
-这里本地有修改
-
-再次验证
-
-git add .
-
-git commit -m "validate"
-
-git push
