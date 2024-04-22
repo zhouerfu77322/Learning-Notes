@@ -39,3 +39,19 @@ Docker是基于Google公司推出的Golang语言开发而来，基于Linux内核
 
 硬件层（笔记本/服务器）-> 虚拟机（VM centos/Ubuntu） ->Docker
 
+提前准备好一个宿主机（虚拟机）
+
+基础环境配置
+
+```
+
+```
+
+安装docker
+
+开启Linux内核的流量转发
+
+```
+
+```
+
